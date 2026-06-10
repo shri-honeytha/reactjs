@@ -1,0 +1,5 @@
+
+
+.box {
+  @apply text-2xl bg-orange-200 text-gray-900 font-bold m-1 p-2 border border-blue-900 rounded-lg;
+}
