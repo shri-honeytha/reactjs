@@ -62,7 +62,7 @@ export default function Home() {
 
             <h3 className="box">{product.name}</h3>
 
-            <p>{product.description}</p>
+            <p className="text-xl hover:bg-gray-500">{product.description}</p>
               <p>rating:{product.rating}</p>
             <h4 className="font-bold">₹{product.price}</h4>
 
